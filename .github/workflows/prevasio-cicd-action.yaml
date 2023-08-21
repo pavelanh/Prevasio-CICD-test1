@@ -51,4 +51,3 @@ jobs:
           WORK_ON_CHANGE: false
           WORKING_DIR: .
           APIGATEWAY_BASE_URL: https://oka9hih9wh.execute-api.us-east-1.amazonaws.com/stage/ci/docker-scan
-          MIN_LEVEL_TO_BLOCK_PR: 0
